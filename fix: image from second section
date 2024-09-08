@@ -517,11 +517,8 @@
 
         </div>
       </section>
-        
 
-        <img src="./assets/images/package.png" width="451" height="262" loading="lazy" alt="" class="shape shape-1">
 
-      </section>
       <section class="plans" aria-label="menu-label" id="plans">
         <p class="section-subtitle text-center label-2">Choose Your Plan</p>
         <div class="wrapper">
