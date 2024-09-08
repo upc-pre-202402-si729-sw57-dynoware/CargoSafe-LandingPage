@@ -347,6 +347,12 @@
 
           </div>
         </div>
+        
+        <img src="./assets/images/package.png" width="451" height="262" loading="lazy" alt="" class="shape shape-1">
+
+      </section>
+      
+      
       <section class="section menu" aria-label="menu-label" id="menu">
         <div class="container">
 
